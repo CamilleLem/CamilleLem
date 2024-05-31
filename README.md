@@ -29,6 +29,10 @@ I'm an upcoming web developer from France with a passion for code, design and a 
 * 🎧 Music, Electronic music, Music production, Djing, Piano
 * 🏋️‍♂️ Sport, Fitness, Crossfit, Martial arts, Natation, Running
 
+## Contact informations 
+
+* 📫 How to reach me: contact.camillelemoine@gmail.com
+
 
 <!--
 **CamilleLem/CamilleLem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
