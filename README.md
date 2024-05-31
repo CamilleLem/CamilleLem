@@ -3,6 +3,13 @@
 
 I'm an upcoming web developer from France with a passion for code, design and a strong motivation to learn and adapt. With diverse experiences in customer service, administration and also as a musician, I'm looking to bring my versatility, attention to detail and creativity to the development of innovative web solutions.  
 
+## Professional demeanor
+
+* 🏔 Adaptability & Perseverance
+* 🤝 Teamwork
+* 💡 Attention to detail and creativity
+* Outgoing, dynamic and committed
+
 ## Skills and experiences 
 
 * 🖥 HTML, CSS, JS, PHP
@@ -15,6 +22,11 @@ I'm an upcoming web developer from France with a passion for code, design and a 
 * 🇫🇷 French native
 * 🇺🇸 English
 * 🇨🇳 Chinese (我会说也懂一点点中文!)
+
+## Activities 
+
+* 🎧 Music, Electronic music, Music production, Djing, Piano
+* 🏋️‍♂️ Sport, Fitness, Crossfit, Martial arts, Natation, Running
 
 
 <!--
