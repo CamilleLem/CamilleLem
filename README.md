@@ -8,7 +8,8 @@ I'm an upcoming web developer from France with a passion for code, design and a 
 * 🏔 Adaptability & Perseverance
 * 🤝 Teamwork
 * 💡 Attention to detail and creativity
-* Outgoing, dynamic and committed
+* 🚀 Outgoing, dynamic and committed
+* 📋 Ownership
 
 ## Skills and experiences 
 
