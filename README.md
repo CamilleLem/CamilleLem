@@ -29,9 +29,11 @@ I'm an upcoming web developer from France with a passion for code, design and a 
 * 🎧 Music, Electronic music, Music production, Djing, Piano
 * 🏋️‍♂️ Sport, Fitness, Crossfit, Martial arts, Natation, Running
 
-## Contact informations 
+## Informations 
 
 * 📫 How to reach me: <a href="mailto:contact.camillelemoine@gmail.com">contact.camillelemoine@gmail.com</a>
+* 📁 My portfolio : [https://linktr.ee/camillelemoine](https://linktr.ee/camillelemoine)
+  
 
 
 
