@@ -31,7 +31,7 @@ I'm an upcoming web developer from France with a passion for code, design and a 
 
 ## Contact informations 
 
-* 📫 How to reach me: contact.camillelemoine@gmail.com
+* 📫 How to reach me: <a href="mailto:contact.camillelemoine@gmail.com">contact.camillelemoine@gmail.com</a>
 
 
 <!--
