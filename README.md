@@ -21,8 +21,8 @@ I'm an upcoming web developer from France with a passion for code, design and a 
 ## Languages
 
 * 🇫🇷 French native
-* 🇺🇸 English
-* 🇨🇳 Chinese (我会说也懂一点点中文!)
+* 🇺🇸 English 
+* 🇨🇳 Chinese 
 
 ## Activities 
 
