@@ -26,7 +26,7 @@ I'm an upcoming web developer from France with a passion for code, design and a 
 
 ## Activities 
 
-* 🎧 Music, Electronic music, Music production, Djing, Piano
+* 🎧 Music, MAO, Piano
 * 🏋️‍♂️ Sport, Fitness, Crossfit, Martial arts, Natation, Running
 
 ## Informations 
