@@ -33,7 +33,7 @@ I'm an upcoming web developer from France with a passion for code, design and a 
 
 * 📫 How to reach me: <a href="mailto:contact.camillelemoine@gmail.com">contact.camillelemoine@gmail.com</a>
 * 📁 My portfolio : [https://linktr.ee/camillelemoine](https://linktr.ee/camillelemoine)
-* https://htmlpreview.github.io/?http://127.0.0.1:5500/accueil.html
+
   
 
 
